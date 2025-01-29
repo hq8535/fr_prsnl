@@ -1,0 +1,168 @@
+/* DIV */
+
+.umain{
+  /**  flex-grow: 0; */
+/*    border: 2px solid rgb(12, 240, 149)  */
+}
+.uvcontainer {
+    display: flex;
+    flex-direction: column;
+ 
+ /*   border: 2px solid red  */
+}
+.uhcontainer {
+    display: flex;
+    height: 100%;
+ /*   border: 2px solid red  */
+}
+.uhcenter {
+    justify-content: center;
+}
+.uvcenter {
+    align-items: center;
+}
+
+.uheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+ /*   border: 1px solid black;  */
+}
+
+.ucard{
+    display: flex;
+    flex-direction: column;
+    padding: 0 20px 0 20px;
+  /*  width: 70%; */
+/*    height: 100%;*/
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.ucard-w70{
+    width: 70%;
+}
+
+.ucard-w50{
+    min-width: 250px;
+}
+
+.ucard-header{
+    min-height: 70px;
+/*    border: 1px solid black;*/
+}
+.ucard-body{
+    padding-top: 20px;
+/*    margin: 20px;*/
+    width: 100%;
+/*    border: 1px solid black;
+    border-radius: 8px;*/
+    flex-grow: 1;
+}
+
+.utable{
+    width: 100%;
+    margin-top: 5px;
+    border: 1px solid;
+/*    font-size: 18px;*/
+}
+.utable, .utable tr, .utable td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.utable tr {
+    height: 40px;
+}
+
+.utabhead{
+    background-color: black;
+    color: white;
+}
+
+.ubtn{
+    height:40px;
+    border: 1px  solid;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 3px;
+}
+.ubtn-inp{
+    height:28px;
+    border: 1px  solid;
+    padding: 10px 5px 0 5px;
+    margin: 5px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.ubg-gre{
+    background-color: rgb(34, 222, 34);
+}
+
+.ubg-red{
+    background-color: rgb(223, 16, 16);
+}
+
+.ubg-blu{
+    background-color:#39dbede2 ;
+}
+
+.ubg-gry{
+    background-color: rgba(176, 182, 176, 0.914);
+}
+
+.uform{
+    display: flex;
+    flex-direction: column;
+}
+.uform-act{
+    display: flex;
+    height: 50px;
+ /*   border: 1px solid black;*/
+   
+}
+.uform-fl{
+    padding: 10px;
+    margin: 0px;
+  /*  border: 1px solid black;*/
+}
+.uform-ctrl{
+    height: 30px;
+    border-radius: 5px;
+}
+
+.uctrl{
+    display: inline;
+    border: 2px solid black;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.utable-r{
+    background-color:lightgrey;
+}
+
+.uselect-tab{
+    display: inline;
+    scrollbar-width: none;
+    height: 30px;
+    appearance: none;
+    border: 0;
+    font-size: 1em;
+    background-color: inherit;
+    color: black;
+    font-family: inherit;
+    text-wrap: wrap;
+    size: 0;
+    z-index: -1; 
+}
+
+.uselect-form{
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-wrap: wrap;
+    size: 0;
+}
