@@ -1,0 +1,818 @@
+{
+  "UserGroups": [
+    {
+      "id": "1",
+      "Name": "Администратор nnn",
+      "Description": "Описание группы пользователей данной программы",
+      "ClientVersion": "240"
+    },
+    {
+      "id": "3f4d",
+      "Name": "Группа новая",
+      "Description": "описание новой группы",
+      "ClientVersion": "111"
+    },
+    {
+      "id": "0d12",
+      "Name": "Группа 3",
+      "Description": "eee",
+      "ClientVersion": "11144"
+    },
+    {
+      "id": "cce9",
+      "Name": "Группа 4",
+      "Description": "ddddd",
+      "ClientVersion": "55555777"
+    },
+    {
+      "id": "a280",
+      "Name": "Группа 5",
+      "Description": "ttttt ffff",
+      "ClientVersion": "3333 555"
+    },
+    {
+      "id": "33f8",
+      "Name": "Группа 6",
+      "Description": "ттттт",
+      "ClientVersion": "76"
+    },
+    {
+      "id": "c665",
+      "Name": "Группа 7",
+      "Description": "dddddssssss",
+      "ClientVersion": "3"
+    }
+  ],
+  "Uresourse": [
+    {
+      "Name": "Ресурс 1",
+      "id": "1"
+    },
+    {
+      "Name": "Ресурс 2",
+      "id": "2"
+    },
+    {
+      "Name": "Ресурс 3",
+      "id": "3"
+    },
+    {
+      "Name": "Ресурс 4",
+      "id": "7dca"
+    },
+    {
+      "Name": "Ресурс 5",
+      "id": "5cbc"
+    },
+    {
+      "Name": "Ресурс 6",
+      "id": "3ba3"
+    },
+    {
+      "Name": "Ресурс 7",
+      "id": "c39e"
+    },
+    {
+      "Name": "Ресурс 8",
+      "id": "db3f"
+    }
+  ],
+  "UserPermisson": [
+    {
+      "id": "1",
+      "IdUser": "1",
+      "Resource": "1",
+      "Permisson": "1",
+      "IsDeny": false
+    },
+    {
+      "id": "2",
+      "IdUser": "1",
+      "Resource": "2",
+      "Permisson": "1",
+      "IsDeny": false
+    },
+    {
+      "id": "3",
+      "IdUser": "1",
+      "Resource": "2",
+      "Permisson": "2",
+      "IsDeny": false
+    },
+    {
+      "id": "4",
+      "IdUser": "1",
+      "Resource": "2",
+      "Permisson": "3",
+      "IsDeny": false
+    },
+    {
+      "id": "6",
+      "IdUser": "2",
+      "Resource": "1",
+      "Permisson": "1",
+      "IsDeny": false
+    },
+    {
+      "id": "7",
+      "IdUser": "2",
+      "Resource": "2",
+      "Permisson": "1",
+      "IsDeny": false
+    },
+    {
+      "id": "5123",
+      "IdUser": "1",
+      "Resource": "3",
+      "Permisson": "3"
+    },
+    {
+      "id": "0bac",
+      "IdUser": "1",
+      "Resource": "3",
+      "Permisson": "9000"
+    },
+    {
+      "id": "438d",
+      "IdUser": "1",
+      "Resource": "1",
+      "Permisson": "7dca"
+    },
+    {
+      "id": "a634",
+      "IdUser": "1",
+      "Resource": "3ba3",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "3f75",
+      "IdUser": "1",
+      "Resource": "3ba3",
+      "Permisson": "7dca"
+    },
+    {
+      "id": "f7e9",
+      "IdUser": "1",
+      "Resource": "3ba3",
+      "Permisson": "3"
+    },
+    {
+      "id": "6183",
+      "IdUser": "1",
+      "Resource": "3ba3",
+      "Permisson": "1"
+    },
+    {
+      "id": "4de9",
+      "IdUser": "1",
+      "Resource": "db3f",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "1072",
+      "IdUser": "undefined",
+      "Resource": "3",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "747b",
+      "IdUser": "undefined",
+      "Resource": "3",
+      "Permisson": "1"
+    },
+    {
+      "id": "8629",
+      "IdUser": "undefined",
+      "Resource": "3",
+      "Permisson": "3"
+    },
+    {
+      "id": "d4ba",
+      "IdUser": "undefined",
+      "Resource": "3",
+      "Permisson": "5cbc"
+    },
+    {
+      "id": "5330",
+      "IdUser": "undefined",
+      "Resource": "2",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "9023",
+      "IdUser": "6b57",
+      "Resource": "3",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "73b2",
+      "IdUser": "6b57",
+      "Resource": "3",
+      "Permisson": "2"
+    },
+    {
+      "id": "5039",
+      "IdUser": "6b57",
+      "Resource": "3",
+      "Permisson": "7dca"
+    },
+    {
+      "id": "a9b0",
+      "IdUser": "6b57",
+      "Resource": "3",
+      "Permisson": "3ba3"
+    },
+    {
+      "id": "fd5b",
+      "Resource": "1",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "a82a",
+      "IdUser": "b92a",
+      "Resource": "1",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "4238",
+      "IdUser": "6b57",
+      "Resource": "1",
+      "Permisson": "1"
+    },
+    {
+      "id": "65e6",
+      "IdUser": "6b57",
+      "Resource": "3ba3",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "9856",
+      "IdUser": "b92a",
+      "Resource": "3",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "c381",
+      "IdUser": "b92a",
+      "Resource": "1",
+      "Permisson": "1"
+    },
+    {
+      "id": "934f",
+      "IdUser": "b92a",
+      "Resource": "1",
+      "Permisson": "7dca"
+    },
+    {
+      "id": "5096",
+      "IdUser": "b92a",
+      "Resource": "1",
+      "Permisson": "3ba3"
+    },
+    {
+      "id": "5129",
+      "IdUser": "b92a",
+      "Resource": "3",
+      "Permisson": "c39e"
+    },
+    {
+      "id": "f9fe",
+      "IdUser": "b92a",
+      "Resource": "3",
+      "Permisson": "5cbc"
+    },
+    {
+      "id": "0ba7",
+      "IdUser": "6b57",
+      "Resource": "c39e",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "9621",
+      "IdUser": "d036",
+      "Resource": "1",
+      "Permisson": "3"
+    },
+    {
+      "id": "2051",
+      "IdUser": "d036",
+      "Resource": "3",
+      "Permisson": "",
+      "IsDeny": false
+    },
+    {
+      "id": "293c",
+      "IdUser": "d036",
+      "Resource": "3"
+    },
+    {
+      "id": "07db",
+      "IdUser": "d036",
+      "Resource": "3",
+      "Permisson": "1"
+    },
+    {
+      "id": "5108",
+      "IdUser": "d036",
+      "Resource": "3",
+      "Permisson": "2"
+    },
+    {
+      "id": "724d",
+      "IdUser": "ad45",
+      "Resource": "1",
+      "Permisson": "2"
+    }
+  ],
+  "Uperm": [
+    {
+      "Name": "Допуск 1",
+      "id": "1"
+    },
+    {
+      "Name": "Допуск 2",
+      "id": "2"
+    },
+    {
+      "Name": "Допуск 3",
+      "id": "3"
+    },
+    {
+      "Name": "Допуск 7",
+      "id": "7dca"
+    },
+    {
+      "Name": "Допуск 5",
+      "id": "5cbc"
+    },
+    {
+      "Name": "Допуск 6",
+      "id": "3ba3"
+    },
+    {
+      "Name": "Допуск 4",
+      "id": "c39e"
+    },
+    {
+      "id": "4a6f",
+      "Name": "Допуск 8"
+    },
+    {
+      "id": "8fe4",
+      "Name": "Допуск 9"
+    }
+  ],
+  "Users": [
+    {
+      "id": "88ec",
+      "Login": "jjj",
+      "FirstName": "jone",
+      "LastName": "jakob",
+      "Password": "123",
+      "IdPriority": "1",
+      "IdUserGroups": "1",
+      "Status": "0",
+      "DateChangePassword": "25/09/24"
+    },
+    {
+      "id": "b92a",
+      "Login": "",
+      "FirstName": "Имя 3",
+      "LastName": "Иванов",
+      "Password": "kkk",
+      "IdPriority": "",
+      "IdUserGroups": "0d12",
+      "Status": "",
+      "DateChangePassword": ""
+    },
+    {
+      "DateChangePassword": "25567",
+      "id": "6b57",
+      "LastName": "Car",
+      "FirstName": "Hanari",
+      "Login": "kkkkk",
+      "IdPriority": "lklkh",
+      "Password": "vvvdddddddddddddddddddddd",
+      "DataChangePassword": "12",
+      "Status": "сефе",
+      "IdUserGroups": "0d12"
+    },
+    {
+      "id": "b8c6",
+      "Login": "",
+      "FirstName": "Имя 5",
+      "LastName": "qqq",
+      "Password": "hjkk",
+      "IdPriority": "",
+      "IdUserGroups": "c665",
+      "Status": "",
+      "DateChangePassword": ""
+    },
+    {
+      "LastName": "ggg",
+      "Password": "ggg",
+      "IdPriority": "ggg",
+      "id": "3169",
+      "FirstName": "fff",
+      "Login": "дог",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "FirstName": "llllllll",
+      "Login": "kkll",
+      "id": "ad45",
+      "LastName": "okok",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12",
+      "IdUserGroups": "0d12"
+    },
+    {
+      "FirstName": "Имя 3",
+      "LastName": "Иванов",
+      "Password": "ddddddddddddddddddddddd",
+      "id": "21ff",
+      "Login": "gggszzz",
+      "IdPriority": "zzz",
+      "Status": "zz"
+    },
+    {
+      "id": "3084",
+      "Login": "qqq",
+      "FirstName": "qqqqq kkkkk",
+      "LastName": "qqqfff",
+      "Password": "c665",
+      "IdPriority": "12",
+      "IdUserGroups": "3f4d",
+      "Status": "c665",
+      "DateChangePassword": "",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "d55e",
+      "Login": "log",
+      "FirstName": "tttttttooo",
+      "LastName": "ggggggggg",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "IdUserGroups": "cce9",
+      "Status": "сефе",
+      "DateChangePassword": "",
+      "DataChangePassword": "12"
+    },
+    {
+      "FirstName": "gg",
+      "id": "adea",
+      "Login": "дог",
+      "LastName": "okok",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12",
+      "IdUserGroups": "cce9"
+    },
+    {
+      "id": "d2b1",
+      "Login": "дог",
+      "FirstName": "hhhhhhh",
+      "LastName": " kkkkkk",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "IdUserGroups": "cce9",
+      "Status": "сефе",
+      "DateChangePassword": "",
+      "DataChangePassword": "12"
+    },
+    {
+      "Login": "ssss",
+      "id": "6fc4",
+      "LastName": "ggggg",
+      "IdUserGroups": "cce9",
+      "Password": "пар",
+      "FirstName": "ok",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "IdPriority": "ddd",
+      "id": "376a",
+      "Password": "пар",
+      "FirstName": "ok",
+      "LastName": "okok",
+      "Login": "дог",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "9afc",
+      "Login": "",
+      "FirstName": "kkkkk",
+      "LastName": "lllll",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "IdUserGroups": "0d12",
+      "Status": "сефе",
+      "DateChangePassword": "",
+      "DataChangePassword": "12"
+    },
+    {
+      "FirstName": "aaaaa",
+      "id": "44df"
+    },
+    {
+      "Status": "ppp",
+      "id": "714c",
+      "FirstName": "jafar"
+    },
+    {
+      "id": "0b43",
+      "FirstName": "nname",
+      "LastName": "familia",
+      "Password": "pbn"
+    },
+    {
+      "id": "8056",
+      "FirstName": "nname",
+      "LastName": "familia",
+      "Password": "pbn",
+      "IdPriority": "first"
+    },
+    {
+      "id": "5934",
+      "LastName": "gggggkkkkk"
+    },
+    {
+      "id": "7609",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "fb73",
+      "LastName": "Car",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "ef5d",
+      "LastName": "Иванов",
+      "FirstName": "Имя 3"
+    },
+    {
+      "id": "af27",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "47b7",
+      "LastName": "gggggkkkkk",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "f500",
+      "LastName": "gggggkkkkk",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "bf5f",
+      "LastName": "gggggkkkkk",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "4cd0",
+      "LastName": "gggggkkkkk",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "07dd",
+      "LastName": "gggggkkkkk",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "ac9f",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "bd21",
+      "LastName": "gggggkkkkk",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "3ae6",
+      "LastName": "gggggkkkkk",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "23d4",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "70d8",
+      "LastName": "Car",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "d4ac",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "c179",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "de02",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "e709",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "17c3",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "52b2",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "31c7",
+      "LastName": "Иванов",
+      "FirstName": "Имя 3"
+    },
+    {
+      "id": "974f",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "cee4",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "b0ca",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "3952",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "1918",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "c8d2",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "0fdb",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "71af",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "4788",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "3c9f",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "bed1",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "8136",
+      "LastName": "llllllll",
+      "FirstName": "llllllll",
+      "IdUserGroups": "3f4d"
+    },
+    {
+      "id": "12f2",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "51be",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "c521",
+      "LastName": "llllllll",
+      "FirstName": "llllllll"
+    },
+    {
+      "id": "a38a",
+      "LastName": "okok",
+      "FirstName": "ok",
+      "Login": "дог",
+      "Password": "пар",
+      "IdPriority": "приор",
+      "Status": "сефе",
+      "DataChangePassword": "12"
+    },
+    {
+      "id": "93b0",
+      "LastName": "nova"
+    },
+    {
+      "id": "ffa2",
+      "LastName": "Car",
+      "FirstName": "Hanari"
+    },
+    {
+      "id": "b757",
+      "LastName": "Иванов",
+      "FirstName": "Имя 3"
+    }
+  ]
+}
