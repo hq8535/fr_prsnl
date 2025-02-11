@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.7",
+    "concurrently": "^9.1.2",
     "devextreme": "22.2.13",
     "devextreme-aspnet-data-nojquery": "^4.0.2",
     "devextreme-react": "22.2.13",
@@ -18,6 +19,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "jserv": "json-server --watch db.json --port 4000",
+    "startjs": "concurrently \"npm run start\" \"npm run jserv\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

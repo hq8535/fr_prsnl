@@ -414,7 +414,7 @@
       "LastName": "qqq",
       "Password": "hjkk",
       "IdPriority": "",
-      "IdUserGroups": "c665",
+      "IdUserGroups": "0d12",
       "Status": "",
       "DateChangePassword": ""
     },
@@ -527,10 +527,6 @@
       "Status": "сефе",
       "DateChangePassword": "",
       "DataChangePassword": "12"
-    },
-    {
-      "FirstName": "aaaaa",
-      "id": "44df"
     },
     {
       "Status": "ppp",
