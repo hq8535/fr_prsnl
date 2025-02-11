@@ -5,7 +5,7 @@ export const menuItems = [
     },
     {
         title:"Пользователи",
-        upag:"/users"
+        upag:"/devpg"
     },
     {
         title:"Справочники",
